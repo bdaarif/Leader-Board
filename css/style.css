@@ -1,0 +1,28 @@
+body{
+    background-color:#E5E5E5;;
+}
+header{
+    margin-bottom: 50px;
+    
+}
+.navbar{
+    padding: 0px 250px;
+}
+.navbar img{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.player-name{
+    padding-left: 15px;
+}
+main{
+    max-width: 870px;
+}
+.blog img{
+    width: 120px;
+}
+.blog-item{
+    padding: 25px 15px;
+}
